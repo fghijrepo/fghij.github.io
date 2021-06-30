@@ -2,122 +2,53 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Statistical Joy Starts Here
+Hello! If you happen to came across this page, it might very well be a statistically significant event... Sorry for abusing the stastical jargon, but I am so excited to share some of my statistical work with you. I love learning languages; but Statistics to me is a language of science like no other.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## A Quote to Start off this Page
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> This is a blockquote from GitHub.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+I love this quote because, as "statisitcally smart" as some of us might be, our behaviors are not completely governed by exact science or reasonings. We are human beings, and as such, our emotions often guide us through difficult times when rationales can only do so much.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+## But We Still Can and Should Invoke Reasoning
 
 * * *
 
-### Here is an unordered list:
+We are fortunate enough to be in a time when the statistical science has advanced to such a point where quantatative reasoning and decision making can be formed based on the vast amount of empirical data humans have accumulated (and are still generating as the clock ticks!).
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+The joy of statistics and data science comes from and revolves around invoking rigorous reasoning on any domain of interest that has data available, and trying to see through the often messy and complex data the scientific truth that underlies them. As a recent graduate, I am fortunate enough to have derived joy of this kind through various projects, an incomplete list of which is as follows:
 
-### And an ordered list:
+### Applied
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+*   Data Visualiaztion
+*   Multivariate Analysis
+*   Statistical Learning
+*   Regression and Generalized Regression Models
+*   Experimental Design
+*   Sampling Methods
+*   and more
 
-### And a nested list:
+Although never the focus of GitHub, the importance of theoretical underpinnings for any applied statistical work (or any quantatative work) can never be overstated. For brevity we can say that they are roughly:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Theoretical
 
-### Small image
+* Math
+* Stastical Theory
+
+But the beauty of the statistical discipline is that there is almost always a "bridge" that can connect the two pillars: the applied person and the theretical person can almost surely meet halfway through that bridge. The job of the statistician is then, leveraging on their rigorous education, to find this bridge, and conduct quality statistical work that is conformable to the data while faithful to the truth.
+
+
+
+### Never Allowed to End a Page without an Image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
