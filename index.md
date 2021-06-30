@@ -14,9 +14,10 @@ Hello! If you happen to came across this page, it might very well be a statistic
 
 I love this quote because, as "statisitcally smart" as some of us might be, our behaviors are not completely governed by exact science or reasonings. We are human beings, and as such, our emotions often guide us through difficult times when rationales can only do so much.
 
-## But We Still Can and Should Invoke Reasoning
 
 * * *
+
+## But We Still Can and Should Invoke Reasoning
 
 We are fortunate enough to be in a time when the statistical science has advanced to such a point where quantatative reasoning and decision making can be formed based on the vast amount of empirical data humans have accumulated (and are still generating as the clock ticks!).
 
