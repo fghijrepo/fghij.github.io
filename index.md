@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Statistical Joy Starts Here
-Hello! If you happen to came across this page, it might very well be a statistically significant event... Sorry for abusing the stastical jargon, but I am so excited to share some of my statistical work with you. I love learning languages; but Statistics to me is a language of science like no other.
+Hello! If you happen to came across this page, it might very well be a statistically significant event... Sorry for abusing the stastical jargon, but I am so excited to share some of my statistical work with you. I love learning languages; but Statistics to me is a language of science like no other. For me personally, this means that I can use this special language to reach and engage with a broader community at large, and, if I "speak" this language appropriately, there is hope that I can fulfill my dream of making the world a better place -- even ever so slightly. 
 
 
 ## A Quote to Start off this Page
