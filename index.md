@@ -21,7 +21,7 @@ I love this quote because, as "statisitcally smart" as some of us might be, our 
 
 We are fortunate enough to be in a time when the statistical science has advanced to such a point where quantatative reasoning and decision making can be formed based on the vast amount of empirical data humans have accumulated (and are still generating as the clock ticks!).
 
-The joy of statistics and data science comes from and revolves around invoking rigorous reasoning on any domain of interest that has data available, and trying to see through the often messy and complex data the scientific truth that underlies them. As a recent graduate, I am fortunate enough to have derived joy of this kind through various projects, an incomplete list of which is as follows:
+The joy of statistics and data science comes from and revolves around invoking rigorous reasoning on any domain of interest that has data available, and trying to see through the often messy and complex data and discover the scientific truth that underlies them. As a recent graduate, I am fortunate enough to have derived joy of this kind through various projects, an incomplete list of which is as follows:
 
 ### Applied
 
