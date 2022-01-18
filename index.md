@@ -40,7 +40,7 @@ Although never the focus of GitHub, the importance of theoretical underpinnings 
 * Math
 * Stastical Theory
 
-But the beauty of the statistical discipline is that there is almost always a "bridge" that can connect the two pillars: the applied person and the theretical person can almost surely meet halfway through that bridge. The job of the statistician is then, leveraging on their rigorous education, to find this bridge, and conduct quality statistical work that is conformable to the data while faithful to the truth.
+But the beauty of the statistical discipline is that there is almost always a "bridge" that can connect the two pillars: the applied person and the theretical person can almost surely meet halfway through that bridge. The job of the statistician is then, leveraging on their rigorous education, to find this bridge, and conduct quality statistical work that is conformable to the data while remaining faithful to the truth.
 
 
 
